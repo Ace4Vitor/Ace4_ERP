@@ -1,0 +1,12 @@
+[submodule "src/Ace4.Main"]
+	path = src/Ace4.Main
+	url = https://github.com/Ace4Vitor/Ace4.Main.git
+[submodule "src/Ace4.Lib"]
+	path = src/Ace4.Lib
+	url = https://github.com/Ace4Vitor/Ace4.Lib.git
+[submodule "src/Modulos/Fin"]
+	path = src/Modulos/Fin
+	url = https://github.com/Ace4Vitor/Ace4.Modulo.Fin.git
+[submodule "src/Modulos/Srv"]
+	path = src/Modulos/Srv
+	url = https://github.com/Ace4Vitor/Ace4.Modulo.Srv.git

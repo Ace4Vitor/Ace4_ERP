@@ -12,3 +12,15 @@ Este projeto utiliza **Git Submodules** para organizar:
 ````
 git clone --recurse-submodules https://github.com/Ace4Vitor/Ace4_ERP.git
 ````
+
+````
+Ace4_ERP/
+├─ .gitmodules
+├─ README.md
+└─ src/
+   ├─ Main/
+   ├─ Lib/
+   └─ Modulos/
+    └─ FIN
+    └─ SRV
+````

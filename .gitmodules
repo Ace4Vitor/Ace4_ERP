@@ -1,6 +1,7 @@
 [submodule "src/Ace4.Main"]
 	path = src/Ace4.Main
 	url = https://github.com/Ace4Vitor/Ace4.Main.git
+	branch = main
 [submodule "src/Ace4.Lib"]
 	path = src/Ace4.Lib
 	url = https://github.com/Ace4Vitor/Ace4.Lib.git
